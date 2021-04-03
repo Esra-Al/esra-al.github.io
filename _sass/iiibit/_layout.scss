@@ -1,0 +1,224 @@
+/**
+ * Site header
+ */
+.site-header {
+  background-color: $site-header-color;
+  border-top: 1px solid $site-header-color;
+  border-bottom: 1px dotted $grey;
+  min-height: $spacing-unit * 2.0;
+  position: relative;
+}
+
+.site-title {
+  @include relative-font-size(2.00);
+  font-weight: 300;
+  font-family: $header-font-family;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: 0px;
+  margin-bottom: 0;
+  float: left;
+  color: $header-font-color;
+  &,
+  &:visited {
+    color: $header-font-color;
+  }
+}
+
+.site-nav {
+  float: right;
+  // padding-right: $spacing-unit * 6.0;
+  line-height: $base-line-height * $base-font-size * 2.0;
+  .nav-trigger {
+      display: none;
+  }
+  .menu-icon {
+    display: none;
+  }
+  .page-link {
+    font-family: $header-font-family;
+    color: $header-font-color;
+    font-weight: bold;
+    line-height: $base-line-height;
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    padding-right: $spacing-unit * 0.0;
+    background-color: $background-color;
+    border: 2px solid $grey;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+      > svg {
+        fill: $grey-dark;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+      color: $header-font-color;
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  }
+}
+
+/**
+ * Site footer
+ */
+.site-footer {
+  border-top: 1px dotted $grey;
+  border-bottom: 1px solid $black;
+  min-height: $spacing-unit * 2.0;
+  position: relative;
+  background-color: $site-footer-color;
+}
+.footer-container {
+  // float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $footer-font-color;
+  text-align: center;
+}
+
+.footer-heading {
+  color: $footer-font-color;
+  @include relative-font-size(1.125);
+  margin-bottom: $spacing-unit / 2;
+}
+.footer-col-wrapper {
+  @include relative-font-size(1.0);
+  // margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
+}
+.footer-link {
+  @include relative-font-size(1.5);
+  color: $footer-font-color;
+  font-family: $header-font-family;
+}
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+  flex: 1;
+}
+
+.page-heading {
+  @include relative-font-size(2);
+}
+
+.post-list-heading {
+  font-family: $header-font-family;
+  @include relative-font-size(1.75);
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey;
+}
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.5);
+}
+
+.blogtoc-item {
+  font-family: $header-font-family;
+}
+
+/**
+ * Posts
+ */
+.post-header {
+  // font-family: $header-font-family;
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  @include relative-font-size(2.0);
+  letter-spacing: -1px;
+  line-height: 1;
+  font-family: $header-font-family;
+  color: $brand-color;
+  @include media-query($on-laptop) {
+    @include relative-font-size(2.0);
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h2 {
+    @include relative-font-size(1.75);
+    font-family: $header-font-family;
+    color: $brand-color;
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.5);
+    font-family: $header-font-family;
+    color: $brand-color;
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.5);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.25);
+    font-family: $header-font-family;
+    color: $brand-color;
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+    }
+  }
+}

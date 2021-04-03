@@ -1,0 +1,28 @@
+author: Esra Al
+title: esraal.com
+email: esra.al.mbg@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  science of consciousness & heart-brain interactions
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.esraal.com" # the base hostname & protocol for your site,
+twitter_username: esra_mbg
+github_username:  Esra-Al
+linkedin_username: esra-al-86aa76143
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+disqus_shortname:
+google_analytics:
+rawgitfiles: "https://raw.githubusercontent.com/Esra-Al/Esra-Al.github.io/master"
+mathjax: true
+pages:
+  - index.md
+  - about.md
+  - blog.md
+  - contributions.md
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
+  - contributions.md
