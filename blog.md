@@ -1,4 +1,4 @@
 ---
-layout: blogtoc
+layout: blog
 title: blog
 ---
