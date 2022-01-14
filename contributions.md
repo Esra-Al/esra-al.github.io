@@ -25,11 +25,35 @@ title: contributions
 
 <h2 class="contribution-type">Presentations</h2>
 
-- <a href='http://www.mindbrainbody.de/'>Somatosensory Perception Varies across the Cardiac Cycle</a>. 2019. MindBrainBody Symposium.
+Oral Presentations
 
-- <a href='https://www.sfn.org/meetings/neuroscience-2018'>Somatosensory Detection and Localization Across The Cardiac Cycle</a>. 2018. Society for Neuroscience (SfN).
+- Heartbeat and Somatosensory Perception, Karolinska Institute, (2022). Online
 
-- <a href='http://www.mindbrainbody.de/'>Do Somatosensory Detection and Localization Vary Across The Cardiac Cycle?</a>. 2017. MindBrainBody Symposium.
+- How To Analyze Heart-Brain Interactions and Their Link to Behavior, Workshop at MindBrainBody Symposium, (2021). Online
+
+-	Heartbeat and Somatosensory Perception, Internal Colloquium of Max Planck Institute, (2021). Online
+
+-	How Does the Heartbeat Affect Somatosensory Perception?, Brain Rhythms Meeting, Columbia University, (2020). Online
+
+-	Somatosensory Localization in the Absence of Conscious Detection, Neuromatch Conference, (2020). Online
+
+-	Heart–Brain Interactions Shape Somatosensory Perception and Evoked Potentials. Interoception Meeting, University College of London, (2020). Online
+
+-	How Does the Heartbeat Affect Somatosensory Perception? Neuroxillations Journal Club, University of Oxford, (2020). Online
+
+-	Somatosensory Perception Varies Across the Cardiac Cycle. Association for the Scientific Study of Consciousness, (2018). Krakow
+
+Poster Presentations
+
+- Neural Correlates of Numbtouch in Healthy Subjects, The Organization for Human Brain Mapping, (2020), Online.
+
+-	Somatosensory Perception Varies Across the Cardiac Cycle. MindBrainBody Symposium, (2019), Berlin.
+
+-	Somatosensory Detection and Localization Across the Cardiac Cycle. CuttingEEG conference, (2018), Paris.
+
+-	Somatosensory Detection and Localization Across the Cardiac Cycle. Society for Neuroscience, (2018), San Diego.
+
+-	Do Somatosensory Detection and Localization Vary Across the Cardiac Cycle?. MindBrainBody Symposium, (2017), Berlin.
 
 <h2 class="contribution-type">News</h2>
 
