@@ -57,8 +57,12 @@ Poster Presentations
 
 <h2 class="contribution-type">News</h2>
 
-- <a href='https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/'>How your heart influences what you perceive and fear</a>. Quanta Magazine. 2020.
+- <a href='https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/'>Wie der Herzschlag unsere Wahrnehmung beeinflusst</a>. Quanta Magazine. 2020.
+
+- <a href='https://www.spektrum.de/news/wie-der-herzschlag-unsere-wahrnehmung-beeinflusst/1728194'>How your heart influences what you perceive and fear</a>. Spektrum. 2020.
 
 - <a href='https://neurosciencenews.com/perception-heart-16267/'>How the heart affects our perception</a>. Neuroscience News. 2020.
 
 - <a href='https://www.mpg.de/wie-das-herz-die-wahrnehmung-beeinflusst'>Wie das Herz die Wahrnehmung beeinflusst</a>. Max Planck Newsroom. 2020.
+
+
