@@ -43,7 +43,7 @@ title: contributions
 
 -	Somatosensory Perception Varies Across the Cardiac Cycle. Association for the Scientific Study of Consciousness, (2018). Krakow
 
-Poster Presentations
+<h3 class="contribution-type">Poster Presentations</h3>
 
 - Neural Correlates of Numbtouch in Healthy Subjects, The Organization for Human Brain Mapping, (2020), Online.
 
@@ -55,7 +55,9 @@ Poster Presentations
 
 -	Do Somatosensory Detection and Localization Vary Across the Cardiac Cycle?. MindBrainBody Symposium, (2017), Berlin.
 
-<h2 class="contribution-type">News</h2>
+<h2 class="contribution-type">Science Communication</h2>
+
+<h3 class="contribution-type">Magazines</h3>
 
 - <a href='https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/'>Wie der Herzschlag unsere Wahrnehmung beeinflusst</a>. Quanta Magazine. 2020.
 
@@ -65,4 +67,4 @@ Poster Presentations
 
 - <a href='https://www.mpg.de/wie-das-herz-die-wahrnehmung-beeinflusst'>Wie das Herz die Wahrnehmung beeinflusst</a>. Max Planck Newsroom. 2020.
 
-
+- <a href='https://scienmag.com/feeling-with-the-heart/'>Feeling with the heart</a>.	Scienmag. 2020.
