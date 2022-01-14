@@ -25,7 +25,7 @@ title: contributions
 
 <h2 class="contribution-type">Presentations</h2>
 
-Oral Presentations
+<h3 class="contribution-type">Oral Presentations</h3>
 
 - Heartbeat and Somatosensory Perception, Karolinska Institute, (2022). Online
 
