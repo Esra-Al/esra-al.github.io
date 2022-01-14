@@ -68,3 +68,5 @@ title: contributions
 - <a href='https://www.mpg.de/wie-das-herz-die-wahrnehmung-beeinflusst'>Wie das Herz die Wahrnehmung beeinflusst</a>. Max Planck Newsroom. 2020.
 
 - <a href='https://scienmag.com/feeling-with-the-heart/'>Feeling with the heart</a>.	Scienmag. 2020.
+
+- <a href='https://www.brainpost.co/weekly-brainpost/2020/5/19/how-the-heartbeat-influences-conscious-perception'>How the Heartbeat Influences Conscious Perception</a>.	BrainPost. 2020.
