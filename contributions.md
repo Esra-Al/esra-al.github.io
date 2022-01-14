@@ -70,3 +70,20 @@ title: contributions
 - <a href='https://scienmag.com/feeling-with-the-heart/'>Feeling with the heart</a>.	Scienmag. 2020.
 
 - <a href='https://www.brainpost.co/weekly-brainpost/2020/5/19/how-the-heartbeat-influences-conscious-perception'>How the Heartbeat Influences Conscious Perception</a>.	BrainPost. 2020.
+
+<h3 class="contribution-type">Newspaper Articles</h3>
+
+- <a href='https://www.diken.com.tr/bilincimiz-kan-vucuda-pompalanirken-ve-kalbe-geri-donerken-farkli-isliyor/'> Bilincimiz, kan vücuda pompalanırken ve kalbe geri dönerken farklı işliyor, </a>. Diken. 2020.
+
+- <a href='https://www.birgun.net/haber/kalbin-bilincimiz-uzerine-etkileri-302784'>Kalbin bilincimiz üzerine etkileri</a>.	Birgun. 2020.
+
+- <a href='https://www.haberturk.com/alman-psikofizyoloji-dernegi-esra-ala-2020-genc-bilim-insani-odulu-verdi-2928491'>Alman Psikofizyoloji Derneği, Esra Al’a 2020 Genç Bilim İnsanı Ödülü verdi</a>.	Haberturk. 2020.
+
+<h3 class="contribution-type">TV shows</h3>
+
+- Decouverte, CBC, Canada (2020)
+
+<h3 class="contribution-type">Public Engagement</h3>
+
+- Career Exploration Class for Cheltenham High School, Philadelphia, 2021
+- Fingerspitzengefühl gefragt, Lange Nacht der Wissenschaften, Berlin, 2016
