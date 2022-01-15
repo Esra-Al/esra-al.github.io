@@ -8,6 +8,9 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+hr {
+  border: .5px dotted $brand-color;
+}
 
 
 /**
@@ -33,7 +36,6 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -99,6 +101,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+h1, h2, h3, h4, h5, h6,
+%vertical-rhythm {
+  margin-bottom: 1px;
+}
+
 
 
 /**
@@ -146,32 +153,6 @@ blockquote {
 }
 
 /**
- * Code formatting
- */
-pre,
-code {
-  @include relative-font-size(0.8);
-  background-color: $grey;
-  color: $lime;
-}
-
-code {
-  padding: 2px 2px;
-}
-
-pre {
-  padding: 8px 12px;
-  overflow-x: auto;
-  > code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
-
-
-
-/**
  * Wrapper
  */
 .wrapper {
@@ -204,12 +185,12 @@ pre {
  * Icons
  */
 .svg-icon {
-    width: 50px;
+    width: 30px;
     height: 30px;
-    // display: inline-block;
+    display: inline-block;
     fill: #{$footer-font-color};
     padding-right: 10px;
-    padding-top: 10px;
+
     vertical-align: text-top;
 }
 
