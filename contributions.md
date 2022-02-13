@@ -3,6 +3,7 @@ layout: page
 title: contributions
 ---
 
+[](#Publications)
 ## **Publications**
 ***
 
@@ -16,6 +17,7 @@ title: contributions
 
 - Kumral, D., Sansal, F., Cesnaite, E., Mahjoory, K., Al, E., Gaebler, M., Nikulin, V. V., & Villringer, A. (2019). [BOLD and EEG signal variability at rest differently relate to aging in the human brain][5].  Neuroimage.
 
+[](#pre-prints)
 ## **Pre-prints**
 ***
 
@@ -25,8 +27,7 @@ title: contributions
 
 - Al, E., Iliopoulos, F., Forschack, N., Nierhaus, T., Grund, M., Motyka, P., Gaebler, M., Nikulin,, V. V., & Villringer, A. (2019). [Heart-brain interactions shape somatosensory perception and evoked potentials][8].  bioRxiv.
 
-
-
+[](#Presentations)
 ## **Presentations**
 ***
 
@@ -61,7 +62,7 @@ title: contributions
 
 -	Do Somatosensory Detection and Localization Vary Across the Cardiac Cycle?. MindBrainBody Symposium, (2017), Berlin.
 
-
+[](#science-communication)
 ## **Science Communication**
 ***
 

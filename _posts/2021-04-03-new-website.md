@@ -9,7 +9,7 @@ keywords:  heart, brain, consciousness, neuroscience
 description:  heart, brain, consciousness, neuroscience
 category: blog
 show_excerpt: true
-excerpt: 
+excerpt:
 ---
 
 This is my new website!

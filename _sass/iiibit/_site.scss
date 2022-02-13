@@ -1,0 +1,107 @@
+/**
+ * Site header
+ */
+.site-header {
+  background-color: $site-header-color;
+  border-top: 0px solid $site-header-color;
+  border-bottom: 0px solid $site-header-color;
+  min-height: $site-spacing-unit * 2.0;
+  position: relative;
+  width: 100%;
+  height: 54px;
+}
+
+.site-title {
+  @include relative-font-size($site-header-font-title-scale);
+  font-weight: bold;
+  font-family: $page-header-font-family;
+  // The scalar will reposition the title
+  // which could be helpful if you are driven nuts by misalgined components
+  line-height: $page-line-height * $page-font-size * 1.8;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  float: left;
+  color: $site-header-font-color;
+  &,
+  &:visited {
+    color: $site-header-font-color;
+  }
+}
+
+.site-nav {
+  float: right;
+  letter-spacing: 0px;
+  margin-bottom: 0;
+  line-height: $page-line-height * $page-font-size * 2.0;
+  .nav-trigger {
+      display: none;
+  }
+  .menu-icon {
+    display: none;
+  }
+  .page-link {
+    @include relative-font-size($site-header-font-pages-scale);
+    font-family: $page-header-font-family;
+    color: $site-header-font-color;
+    font-weight: bold;
+    margin-bottom: 0;
+    line-height: $page-line-height;
+    &:not(:last-child) {
+      margin-right: 22px;
+    }
+  }
+
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $site-spacing-unit / 2;
+    padding-right: $site-spacing-unit * 0.0;
+    background-color: $page-background-color;
+    border: 2px solid $grey;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+      > svg {
+        fill: $grey-dark;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      margin-bottom: 0;
+      padding: 5px 10px;
+      color: $page-link-color;
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  }
+}

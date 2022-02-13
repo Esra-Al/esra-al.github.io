@@ -9,7 +9,8 @@ layout: page
       {%- for post in site.posts -%}
       {% if post.category == "blog" %}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <a href="{{ post.url | relative_url }}" class="blogtoc-item"><strong>{{ post.title }}, </strong></a>
+        <a href="{{ post.url | relative_url }}" class="blogtoc-item"><strong>{{ post.title }}</strong></a>
+        
         <span class="post-meta">{{ post.date | date: date_format }}</span><br>
         {%- if post.show_excerpt -%}
           {{ post.excerpt }}<br>

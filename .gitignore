@@ -17,3 +17,4 @@ _site/
 .jekyll-metadata
 _private
 _drafts
+.jekyll-cache

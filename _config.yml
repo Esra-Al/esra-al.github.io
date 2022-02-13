@@ -1,13 +1,23 @@
 author: Esra Al
-title: esraal.com
+title: Esra Al
 email: esra.al.mbg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   science of consciousness & heart-brain interactions
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.esraal.com" # the base hostname & protocol for your site,
-twitter_username: esra_mbg
-github_username:  Esra-Al
-linkedin_username: esra-al-86aa76143
+url: "https://www.esraal.com" # the base hostname & protocol for your site
+social:
+  twitter:
+    username: esra_mbg
+    url: "https://www.twitter.com/"
+    icon_file: "/assets/minima-social-icons.svg#twitter"
+  github:
+    username: Esra-Al
+    url: "https://www.github.com/"
+    icon_file: "/assets/minima-social-icons.svg#github"
+  linkedin:
+    username: esra-al-86aa76143
+    url: "https://www.linkedin.com/in/"
+    icon_file: "/assets/minima-social-icons.svg#linkedin"
 # Build settings
 markdown: kramdown
 plugins:
@@ -24,5 +34,9 @@ pages:
 header_pages:
   - index.md
   - about.md
-  - blog.md
   - contributions.md
+contribution_types:
+  - Publications
+  - Pre-prints
+  - Presentations
+  - Science Communication
