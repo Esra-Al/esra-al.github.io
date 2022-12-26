@@ -139,5 +139,23 @@
             "preprint": true,
             "html": "\n\t<li>\n\t\t<p>\n\t\t\tAl, E., Iliopoulos, F., Forschack, N., Nierhaus, T., Grund, M., Motyka, P., Gaebler, M., Nikulin, V.V., and Villringer, A. (2019). <a href=\"http://dx.doi.org/10.1101/750315\" target=\"_blank\">Heart-Brain Interactions Shape Somatosensory Perception and Evoked Potentials</a>. bioRxiv. 10.1101/750315\n\t\t</p>\n\t</li>"
         }
+    },
+    {
+        "https://doi.org/10.1016/j.jacep.2022.06.019": {
+            "authors": "Kumral, D., Al, E., Cesnaite, E., Kornej, J., Sander, C., Hensch, T., Zeynalova, S., Tautenhahn, S., Hagendorf, A., Laufs, U., Wachter, R., Nikulin, V., and Villringer, A.",
+            "year": "2022",
+            "title": "Attenuation of the Heartbeat-Evoked Potential in Patients With Atrial\u00a0Fibrillation",
+            "journal": "JACC: Clinical Electrophysiology",
+            "volume": "8",
+            "issue": "10",
+            "pages": "1219-1230",
+            "issn": [
+                "2405-500X"
+            ],
+            "url": "http://dx.doi.org/10.1016/j.jacep.2022.06.019",
+            "doi": "10.1016/j.jacep.2022.06.019",
+            "preprint": false,
+            "html": "\n\t<li>\n\t\t<p>\n\t\t\tKumral, D., Al, E., Cesnaite, E., Kornej, J., Sander, C., Hensch, T., Zeynalova, S., Tautenhahn, S., Hagendorf, A., Laufs, U., Wachter, R., Nikulin, V., and Villringer, A. (2022). <a href=\"http://dx.doi.org/10.1016/j.jacep.2022.06.019\" target=\"_blank\">Attenuation of the Heartbeat-Evoked Potential in Patients With Atrial\u00a0Fibrillation</a>. JACC: Clinical Electrophysiology, 8(10), 1219-1230. 10.1016/j.jacep.2022.06.019\n\t\t</p>\n\t</li>"
+        }
     }
 ]

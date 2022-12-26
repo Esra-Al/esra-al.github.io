@@ -2,6 +2,7 @@
 ## **Publications**
 ***
 <ul>
+
 	<li>
 		<p>
 			Grund, M., Al, E., Pabst, M., Dabbagh, A., Stephani, T., Nierhaus, T., Gaebler, M., and Villringer, A. (2021). <a href="http://dx.doi.org/10.1523/JNEUROSCI.0592-21.2021" target="_blank">Respiration, Heartbeat, and Conscious Tactile Perception</a>. The Journal of Neuroscience, 42(4), 643-656. 10.1523/jneurosci.0592-21.2021
@@ -25,6 +26,11 @@
 	<li>
 		<p>
 			Kumral, D., Şansal, F., Cesnaite, E., Mahjoory, K., Al, E., Gaebler, M., Nikulin, V., and Villringer, A. (2019). <a href="http://dx.doi.org/10.1016/j.neuroimage.2019.116373" target="_blank">BOLD and EEG signal variability at rest differently relate to aging in the human brain</a>. NeuroImage, 207, 116373. 10.1016/j.neuroimage.2019.116373
+		</p>
+	</li>
+	<li>
+		<p>
+			Kumral, D., Al, E., Cesnaite, E., Kornej, J., Sander, C., Hensch, T., Zeynalova, S., Tautenhahn, S., Hagendorf, A., Laufs, U., Wachter, R., Nikulin, V., and Villringer, A. (2022). <a href="http://dx.doi.org/10.1016/j.jacep.2022.06.019" target="_blank">Attenuation of the Heartbeat-Evoked Potential in Patients With Atrial Fibrillation</a>. JACC: Clinical Electrophysiology, 8(10), 1219-1230. 10.1016/j.jacep.2022.06.019
 		</p>
 	</li>
 </ul>
