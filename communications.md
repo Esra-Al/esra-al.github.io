@@ -4,26 +4,36 @@
 
 ### Magazines
 
-- [Wie der Herzschlag unsere Wahrnehmung beeinflusst][1]. Quanta Magazine. 2020.
+- [Heart over head? Stages of the heart’s cycle affect neural responses][13]. EurekAlert. 2023.
 
-- [How your heart influences what you perceive and fear][2]. Spektrum. 2020.
+- [Heartbeat’s Influence on Brain Activity][12]. Neuroscience News. 2023.
 
-- [How the heart affects our perception][3]. Neuroscience News. 2020.
+- [New 'Remarkable Connection' Discovered Between Our Heart And Brain][1]. Science Alert. 2023.
 
-- [Wie das Herz die Wahrnehmung beeinflusst][4] . Max Planck Newsroom. 2020.
+- [Herz über Kopf? Phasen des Herzzyklus beeinflussen neuronale Reaktionen][2]. Max Planck Newsroom. 2023.
 
-- [Feeling with the heart][5].	Scienmag. 2020.
+- [Wie der Herzschlag unsere Wahrnehmung beeinflusst][3]. Quanta Magazine. 2020.
 
-- [How the Heartbeat Influences Conscious Perception][6].	BrainPost. 2020.
+- [How your heart influences what you perceive and fear][4]. Spektrum. 2020.
+
+- [How the heart affects our perception][5]. Neuroscience News. 2020.
+
+- [Wie das Herz die Wahrnehmung beeinflusst][6] . Max Planck Newsroom. 2020.
+
+- [Feeling with the heart][7].	Scienmag. 2020.
+
+- [How the Heartbeat Influences Conscious Perception][8].	BrainPost. 2020.
 
 
 ### Newspaper Articles
 
-- [Bilincimiz, kan vücuda pompalanırken ve kalbe geri dönerken farklı işliyor][7],  . Diken. 2020.
+- [Three questions to][14]. Max Planck Newsroom. 2023.
 
-- [Kalbin bilincimiz üzerine etkileri][8].	Birgun. 2020.
+- [Bilincimiz, kan vücuda pompalanırken ve kalbe geri dönerken farklı işliyor][9]. Diken. 2020.
 
-- [Alman Psikofizyoloji Derneği, Esra Al’a 2020 Genç Bilim İnsanı Ödülü verdi][9].	Haberturk. 2020.
+- [Kalbin bilincimiz üzerine etkileri][10].	Birgun. 2020.
+
+- [Alman Psikofizyoloji Derneği, Esra Al’a 2020 Genç Bilim İnsanı Ödülü verdi][11].	Haberturk. 2020.
 
 ### TV shows
 
@@ -31,15 +41,22 @@
 
 ### Public Engagement
 
+- Interview with B.Sc Students of Experimental Neuroscience Class for University of Leipzig, Leipzig, 2022 & 2023
+- Meet with a Scientist, Barnard College, 2022
 - Career Exploration Class for Cheltenham High School, Philadelphia, 2021
 - Fingerspitzengefühl gefragt, Lange Nacht der Wissenschaften, Berlin, 2016
 
-[1]: https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/  
-[2]: https://www.spektrum.de/news/wie-der-herzschlag-unsere-wahrnehmung-beeinflusst/1728194
-[3]: https://neurosciencenews.com/perception-heart-16267/
-[4]: https://www.mpg.de/wie-das-herz-die-wahrnehmung-beeinflusst
-[5]: https://scienmag.com/feeling-with-the-heart/
-[6]: https://www.brainpost.co/weekly-brainpost/2020/5/19/how-the-heartbeat-influences-conscious-perception
-[7]: https://www.diken.com.tr/bilincimiz-kan-vucuda-pompalanirken-ve-kalbe-geri-donerken-farkli-isliyor/
-[8]: https://www.birgun.net/haber/kalbin-bilincimiz-uzerine-etkileri-302784
-[9]: https://www.haberturk.com/alman-psikofizyoloji-dernegi-esra-ala-2020-genc-bilim-insani-odulu-verdi-2928491
+[1]: https://www.sciencealert.com/new-remarkable-connection-discovered-between-our-heart-and-brain 
+[2]: https://www.cbs.mpg.de/2198364/20231129
+[3]: https://www.quantamagazine.org/how-your-heart-influences-what-you-perceive-and-fear-20200706/  
+[4]: https://www.spektrum.de/news/wie-der-herzschlag-unsere-wahrnehmung-beeinflusst/1728194
+[5]: https://neurosciencenews.com/perception-heart-16267/
+[6]: https://www.mpg.de/wie-das-herz-die-wahrnehmung-beeinflusst
+[7]: https://scienmag.com/feeling-with-the-heart/
+[8]: https://www.brainpost.co/weekly-brainpost/2020/5/19/how-the-heartbeat-influences-conscious-perception
+[9]: https://www.diken.com.tr/bilincimiz-kan-vucuda-pompalanirken-ve-kalbe-geri-donerken-farkli-isliyor/
+[10]: https://www.birgun.net/haber/kalbin-bilincimiz-uzerine-etkileri-302784
+[11]: https://www.haberturk.com/alman-psikofizyoloji-dernegi-esra-ala-2020-genc-bilim-insani-odulu-verdi-2928491
+[12]: https://neurosciencenews.com/heartbeat-brain-activity-25282/
+[13]: https://www.eurekalert.org/news-releases/1008806
+[14]: https://www.cbs.mpg.de/2149474/20230621
