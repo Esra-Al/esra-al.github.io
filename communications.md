@@ -27,7 +27,7 @@
 
 ### Newspaper Articles
 
-- [Three questions to][14]. Max Planck Newsroom. 2023.
+- [Three questions to Lara Puhlmann and Esra Al, this year’s winners of the Otto Hahn Medal.][14]. Max Planck Newsroom. 2023.
 
 - [Bilincimiz, kan vücuda pompalanırken ve kalbe geri dönerken farklı işliyor][9]. Diken. 2020.
 
