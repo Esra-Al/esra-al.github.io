@@ -8,6 +8,8 @@
 
 - [Heartbeat’s Influence on Brain Activity][12]. Neuroscience News. 2023.
 
+- [The Intricate Dance Between the Heart and Brain: Unveiling the Connection][15]. Express Healthcare. 2023.
+
 - [New 'Remarkable Connection' Discovered Between Our Heart And Brain][1]. Science Alert. 2023.
 
 - [Herz über Kopf? Phasen des Herzzyklus beeinflussen neuronale Reaktionen][2]. Max Planck Newsroom. 2023.
@@ -60,3 +62,4 @@
 [12]: https://neurosciencenews.com/heartbeat-brain-activity-25282/
 [13]: https://www.eurekalert.org/news-releases/1008806
 [14]: https://www.cbs.mpg.de/2149474/20230621
+[15]: https://www.expresshealthcaremgmt.com/news2/new-remarkable-connection-discovered-between-our-heart-and-brain/391870/#gsc.tab=0
