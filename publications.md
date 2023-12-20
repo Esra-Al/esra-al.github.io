@@ -5,6 +5,11 @@
 
 	<li>
 		<p>
+			Al, E., Stephani, T., Engelhardt, M., Haegens, S., Villringer, A., & Nikulin, V. (2023). <a href="http://dx.doi.org/10.1371/journal.pbio.3002393" target="_blank">Respiration, Heartbeat, and Conscious Tactile Perception</a>. loS Biology, 21(11), e3002393. 10.1371/journal.pbio.3002393
+		</p>
+	</li>
+	<li>
+		<p>
 			Grund, M., Al, E., Pabst, M., Dabbagh, A., Stephani, T., Nierhaus, T., Gaebler, M., and Villringer, A. (2021). <a href="http://dx.doi.org/10.1523/JNEUROSCI.0592-21.2021" target="_blank">Respiration, Heartbeat, and Conscious Tactile Perception</a>. The Journal of Neuroscience, 42(4), 643-656. 10.1523/jneurosci.0592-21.2021
 		</p>
 	</li>
