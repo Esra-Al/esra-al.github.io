@@ -11,8 +11,6 @@ title: about
     </a>
   </div>
   <div class="column">
-  </div>
-  <div class="column">
     <h1 class="about-me-title"> Neuroscientist | Machine Learning Researcher | Passionate about AI</h1>
 
     <div class="about-me-text">
