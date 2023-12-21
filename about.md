@@ -15,9 +15,9 @@ title: about
   </div>
 </div>
 
-Driven by a passion for understanding the mind and building intelligent systems, I combine my neuroscience background with machine learning expertise to tackle challenging problems in areas like  consciousness, physiology, and neural networks.
+🪄 Driven by a passion for understanding the mind and building intelligent systems, I combine my neuroscience background with machine learning expertise to tackle challenging problems in areas like  consciousness, physiology, and neural networks.
 
-With over a decade of experience in neuroscience, biology, and programming, I bring a unique blend of scientific rigor and technical proficiency to my work. I'm adept at translating intricate biological phenomena into powerful data-driven solutions. 
+🪄 With over a decade of experience in neuroscience, biology, and programming, I bring a unique blend of scientific rigor and technical proficiency to my work. I'm adept at translating intricate biological phenomena into powerful data-driven solutions. 
 
 ## Highlights
 💡 Visiting Scholar, Machine Learning at Recurse Center (2023 - Present): Mastered fundamental ML tools and gained practical experience in advanced deep learning and NLP techniques, further enhancing my ability to bridge the gap between neuroscience and artificial intelligence.
