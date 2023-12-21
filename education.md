@@ -11,15 +11,15 @@ title: education
 <b>Master of Science in Cognitive Science </b> <br>
 🏛️ Berlin School of Mind and Brain, Humboldt Universität zu Berlin, Germany <br>
 📖 Thesis Title: Localization of Undetected Somatosensory Stimuli <br>
-👩‍🎓 Grade Point Average: 1.1 (German grading scale) <br>
+👩‍🎓 Grade Point Average: 1.1 (Excellent in German grading scale) <br>
 
 
 <b>Bachelor of Science (Major) in Molecular Biology and Genetics </b> <br>
 🏛️ Bilkent University, Ankara, Turkey <br>
 📖 Thesis Title: High-Resolution Diffusion Magnetic Resonance Imaging <br>
-👩‍🎓 CGPA: 3.97/4.00 (U.S. grading scale) - Valedictorian of Science Faculty <br>
+👩‍🎓 CGPA: 3.97/4.00 (High Honors in U.S. grading scale) - Valedictorian of Science Faculty <br>
 
 <b>Bachelor of Science (Minor) in Psychology</b> <br>
 🏛️ Bilkent University, Ankara, Turkey <br>
-👩‍🎓 CGPA: 3.90/4.00 (U.S. grading scale)
+👩‍🎓 CGPA: 3.90/4.00 (High Honors in U.S. grading scale)
 

@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.esraal.com" # the base hostname & protocol for your site
 social:
   twitter:
-    username: esra_mbg
+    username: _Esra_Al
     url: "https://www.twitter.com/"
     icon_file: "/assets/minima-social-icons.svg#twitter"
   github:
@@ -15,9 +15,10 @@ social:
     url: "https://www.github.com/"
     icon_file: "/assets/minima-social-icons.svg#github"
   linkedin:
-    username: esra-al-86aa76143
-    url: "https://www.linkedin.com/in/"
+    username: esra-al-ph-d-86aa76143
+    url: "https://www.linkedin.com/in/" 
     icon_file: "/assets/minima-social-icons.svg#linkedin"
+    
 # Build settings
 markdown: kramdown
 plugins:
@@ -28,13 +29,13 @@ rawgitfiles: "https://raw.githubusercontent.com/Esra-Al/Esra-Al.github.io/master
 mathjax: true
 pages:
   - index.md
-  - about.md
+  - media.md
   - blog.md
   - contributions.md
   - education.md
 header_pages:
   - index.md
-  - about.md
+  - media.md
   - contributions.md
   - education.md
 contribution_types:
