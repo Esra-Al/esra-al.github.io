@@ -31,10 +31,12 @@ pages:
   - about.md
   - blog.md
   - contributions.md
+  - education.md
 header_pages:
   - index.md
   - about.md
   - contributions.md
+  - education.md
 contribution_types:
   - Publications
   - Pre-prints

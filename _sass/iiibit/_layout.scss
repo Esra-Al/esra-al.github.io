@@ -81,10 +81,16 @@ a {
     box-sizing: border-box;
 }
 
-.column {
-    float: left;
-    width: 50%;
+.column, .column2 {
+  float: left;
+  width: 50%; /* Adjust as needed */
 }
+
+.about-me-title {
+  font-size: 23px; /* Adjust font size as desired */
+  margin: 0; /* Removes default margin from h3 */
+}
+
 
 /* Clear floats after the columns */
 .row:after {

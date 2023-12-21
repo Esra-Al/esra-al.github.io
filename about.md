@@ -10,8 +10,8 @@ title: about
       <img src='{{site.url}}/assets/images/me.png' class='hide'/>
     </a>
   </div>
-  <div class="column">
-    <h2 class="about-me-title"> <br> Neuroscientist 🧠🔬 | <br> Machine Learning Researcher 🤖💻 | <br> Passionate about AI ✨🧠🤖 </h2>
+  <div class="column2">
+    <h3 class="about-me-title"> <br> <br> Neuroscientist | <br> Machine Learning Researcher | <br> Passionate about AI | </h3>
   </div>
 </div>
 
