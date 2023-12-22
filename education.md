@@ -3,6 +3,7 @@ layout: page
 title: education
 ---
 
+
 <b>Doctoral Studies in Cognitive Neuroscience </b> <br>
 🏛️ Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany <br>
 📖 Thesis Title: The Impact of Heart-Brain Interactions on Somatosensory Perception <br>
@@ -12,7 +13,6 @@ title: education
 🏛️ Berlin School of Mind and Brain, Humboldt Universität zu Berlin, Germany <br>
 📖 Thesis Title: Localization of Undetected Somatosensory Stimuli <br>
 👩‍🎓 Grade Point Average: 1.1 (Excellent in German grading scale) <br>
-
 
 <b>Bachelor of Science (Major) in Molecular Biology and Genetics </b> <br>
 🏛️ Bilkent University, Ankara, Turkey <br>

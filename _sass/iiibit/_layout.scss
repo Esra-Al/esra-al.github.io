@@ -25,6 +25,28 @@ main {
   }
 }
 
+.inner-wrapper {
+  max-width: -webkit-calc(#{$content-width} - (#{$site-spacing-unit} * 4));
+  max-width:         calc(#{$content-width} - (#{$site-spacing-unit} * 4));
+  margin-right: auto;
+  margin-left: auto;
+  // This padding top will move the text next to the heart brain down a bit
+  // when 
+  padding-top: $site-spacing-unit * 2;
+  padding-right: $site-spacing-unit * 1.2;
+  padding-left: $site-spacing-unit * 1.2;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$site-spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$site-spacing-unit}));
+    padding-top: $site-spacing-unit;
+    padding-right: $site-spacing-unit / 4;
+    padding-left: $site-spacing-unit / 4;
+    
+  }
+}
+
 /**
  * Page content
  */
@@ -81,7 +103,7 @@ a {
     box-sizing: border-box;
 }
 
-.column, .column2 {
+.column {
   float: left;
   width: 50%; /* Adjust as needed */
 }
@@ -123,9 +145,3 @@ table {
     border: 1px solid $grey-light;
   }
 }
-
-// h1 {
-//   .about-me-title {
-//     font-size: $page-font-size-small;
-//   }
-// }

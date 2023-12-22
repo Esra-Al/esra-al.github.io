@@ -2,7 +2,6 @@
 ## **Pre-prints**
 ***
 <ul>
-
 	<li>
 		<p>
 			Al, E., Stephani, T., Engelhardt, M., Villringer, A., and Nikulin, V. (2021). <a href="http://dx.doi.org/10.21203/rs.3.rs-1023617/v1" target="_blank">Cardiac Activity Impacts Cortical Motor Excitability</a>. Research Square. 10.21203/rs.3.rs-1023617/v1
